@@ -1,9 +1,9 @@
 GL Fish
 =============
 
-Created this for to visualize data coming from an Arduino board with motion sensors.
+Created this to visualize data coming from an Arduino board with motion sensors.
 
-As you get closer to the Arduino board, the fish would swim closer to you.
+As the motion sensors detect an approaching object, the fish would swim closer to the camera.
 
 Demos
 -------
