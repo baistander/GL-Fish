@@ -1,0 +1,10 @@
+html, body {
+  background-color: #ffffff;
+  margin: 0px;
+  overflow: hidden;
+  font-family:Monospace;
+  font-size:13px;
+  text-align:center;
+  text-align:center;
+  cursor: pointer;
+}
